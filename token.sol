@@ -2,8 +2,7 @@
 
 /* Important links:
 Website : https://nestfinance.io
-Telegram : 
-Twitter :
+Twitter : https://twitter.com/nest_finance
 
 */
 pragma solidity 0.8.2;
